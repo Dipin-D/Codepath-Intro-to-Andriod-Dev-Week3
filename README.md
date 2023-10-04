@@ -23,15 +23,13 @@ The following REQUIRED features are completed:
 ## Chosen Screenshot
 
 I have chosen to duplicate the following layout from the **Duolingo** app:
-<img src='![image](https://github.com/Dipin-D/codepath_week3/assets/102004858/134b5f7b-5e40-4e5d-a1e6-7e2184d693be)
-' alt='Video Demo' />
+<img src='https://github.com/Dipin-D/codepath_week3/assets/102004858/134b5f7b-5e40-4e5d-a1e6-7e2184d693be'/>
 
 ## Image Demo
 
 Here's a image that demos all of the app's implemented features:
 
-<img src='![image](https://github.com/Dipin-D/codepath_week3/assets/102004858/2fc136ff-519a-4898-9569-8d98c0eec705)
-' />
+<img src='https://github.com/Dipin-D/codepath_week3/assets/102004858/2fc136ff-519a-4898-9569-8d98c0eec705'/>
 
 ## Notes
 
