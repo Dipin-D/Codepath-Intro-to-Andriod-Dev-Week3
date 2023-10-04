@@ -29,7 +29,8 @@ I have chosen to duplicate the following layout from the **Duolingo** app:
 
 Here's a image that demos all of the app's implemented features:
 
-<img src='https://github.com/Dipin-D/codepath_week3/assets/102004858/2fc136ff-519a-4898-9569-8d98c0eec705'/>
+<img src='https://github.com/Dipin-D/codepath_week3/assets/102004858/f18e1b78-4fd3-4e17-94f8-76549e99411d
+'/>
 
 ## Notes
 
